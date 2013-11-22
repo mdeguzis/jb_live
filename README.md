@@ -10,7 +10,7 @@ Fixes
 Pulls
 =============
 
-Notse
+Notes
 =============
 ~                                                                                                            
 ~                                                                                                         
