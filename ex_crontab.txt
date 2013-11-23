@@ -16,7 +16,7 @@
 00 12 * * 7 /home/mikeyd/scripts/jb_live/jb_live_LAS
 00 16 * * 2 /home/mikeyd/scripts/jb_live/jb_live_LASunplugged
 00 22 * * 2 /home/mikeyd/scripts/jb_live/jb_live_scibyte
-30 3 * * 4  /home/mikeyd/scripts/jb_live/jb_live_techsnap
+30 15 * * 4  /home/mikeyd/scripts/jb_live/jb_live_techsnap
 30 20 * * 3  /home/mikeyd/scripts/jb_live/jb_live_unfilter
 ~
 
